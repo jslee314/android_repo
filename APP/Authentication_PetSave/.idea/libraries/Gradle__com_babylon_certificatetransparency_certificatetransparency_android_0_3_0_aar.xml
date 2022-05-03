@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.babylon.certificatetransparency:certificatetransparency-android:0.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2043e08ac7a6630d2042b5237fff275/jetified-certificatetransparency-android-0.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2043e08ac7a6630d2042b5237fff275/jetified-certificatetransparency-android-0.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2043e08ac7a6630d2042b5237fff275/jetified-certificatetransparency-android-0.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.babylon.certificatetransparency/certificatetransparency-android/0.3.0/fc03c51b08289660ed2e202d79bd6cf72b315138/certificatetransparency-android-0.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.babylon.certificatetransparency/certificatetransparency-android/0.3.0/e52662edd02c07a1c46e06df107e3a263b15b83c/certificatetransparency-android-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

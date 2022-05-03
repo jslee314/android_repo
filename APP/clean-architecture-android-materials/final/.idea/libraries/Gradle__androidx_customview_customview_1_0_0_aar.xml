@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.customview:customview:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/9c27c30bcc83f48f6feef9ea09c69768/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/9c27c30bcc83f48f6feef9ea09c69768/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/9c27c30bcc83f48f6feef9ea09c69768/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bumptech.glide:glide:4.9.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c739a570ba1d3da94ba2287e8a87c87c/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c739a570ba1d3da94ba2287e8a87c87c/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c739a570ba1d3da94ba2287e8a87c87c/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

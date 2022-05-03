@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.arch.core:core-runtime:2.0.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/5e0d8c029ce37eb1f3b735ab0541a8ba/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/5e0d8c029ce37eb1f3b735ab0541a8ba/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/5e0d8c029ce37eb1f3b735ab0541a8ba/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.appcompat:appcompat:1.1.0-alpha02@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/7195a487edc446031758d6863760e8c3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/7195a487edc446031758d6863760e8c3/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/7195a487edc446031758d6863760e8c3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/7195a487edc446031758d6863760e8c3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

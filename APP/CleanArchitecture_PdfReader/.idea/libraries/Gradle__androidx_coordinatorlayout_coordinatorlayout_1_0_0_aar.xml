@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3e8334696cfab1fccab3637464dcfc6f/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/64b920ed32bdd6b996e97db920cf6e19/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3e8334696cfab1fccab3637464dcfc6f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3e8334696cfab1fccab3637464dcfc6f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3e8334696cfab1fccab3637464dcfc6f/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/64b920ed32bdd6b996e97db920cf6e19/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/64b920ed32bdd6b996e97db920cf6e19/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/64b920ed32bdd6b996e97db920cf6e19/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

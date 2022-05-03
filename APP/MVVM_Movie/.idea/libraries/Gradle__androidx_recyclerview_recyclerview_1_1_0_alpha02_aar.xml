@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.recyclerview:recyclerview:1.1.0-alpha02@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha02.aar/9d231ef32152ee860784ac81c9db1f8a/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha02.aar/9d231ef32152ee860784ac81c9db1f8a/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha02.aar/9d231ef32152ee860784ac81c9db1f8a/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha02.aar/9d231ef32152ee860784ac81c9db1f8a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

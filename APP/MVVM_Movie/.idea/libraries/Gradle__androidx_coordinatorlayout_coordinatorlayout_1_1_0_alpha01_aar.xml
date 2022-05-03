@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/6f5fa20510103c79d240f84e0d871039/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/6f5fa20510103c79d240f84e0d871039/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/6f5fa20510103c79d240f84e0d871039/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/6f5fa20510103c79d240f84e0d871039/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

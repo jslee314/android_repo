@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/layout_fragment_podcast_details.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/layout/fragment_podcast_details.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/layout_fragment_episode_player.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/layout/fragment_episode_player.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_pause_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-hdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_episode_icon.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xxhdpi/ic_episode_icon.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/menu_menu_details.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/menu/menu_details.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_pause_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-mdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_episode_icon.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-hdpi/ic_episode_icon.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_play_arrow_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xxxhdpi/ic_play_arrow_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_episode_icon.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-mdpi/ic_episode_icon.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_replay_10_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xxhdpi/ic_replay_10_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_forward_30_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xxxhdpi/ic_forward_30_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_replay_10_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-hdpi/ic_replay_10_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/layout_search_item.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/layout/search_item.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_pause_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xxhdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_pause_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xhdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/layout_activity_podcast.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/layout/activity_podcast.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_replay_10_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xhdpi/ic_replay_10_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/layout_episode_item.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/layout/episode_item.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/xml_searchable.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_play_arrow_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xxhdpi/ic_play_arrow_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_episode_icon.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xhdpi/ic_episode_icon.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_forward_30_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-hdpi/ic_forward_30_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/menu_menu_search.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/menu/menu_search.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_forward_30_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-mdpi/ic_forward_30_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable_ic_play_pause_toggle.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable/ic_play_pause_toggle.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_play_arrow_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-hdpi/ic_play_arrow_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_replay_10_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xxxhdpi/ic_replay_10_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_play_arrow_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-mdpi/ic_play_arrow_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_forward_30_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xxhdpi/ic_forward_30_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_pause_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xxxhdpi/ic_pause_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_forward_30_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xhdpi/ic_forward_30_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_play_arrow_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-xhdpi/ic_play_arrow_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_replay_10_white.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/drawable-mdpi/ic_replay_10_white.png"
+    },
+    {
+        "merged": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/jslee/HD/Repository/ray/APP/Permissions_PodPlay/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    }
+]

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity:1.0.0-alpha04@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/ee2f31e40dd644f10eaa0d00f17f6604/res" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/ba2262c7463b43eb21bf2aa76fd78b8a/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/ba2262c7463b43eb21bf2aa76fd78b8a/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/ba2262c7463b43eb21bf2aa76fd78b8a/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

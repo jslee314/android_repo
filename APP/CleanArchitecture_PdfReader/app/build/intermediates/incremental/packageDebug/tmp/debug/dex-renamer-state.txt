@@ -1,0 +1,10 @@
+#Tue Mar 01 20:32:55 KST 2022
+base.2=/Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/build/intermediates/dex/debug/mergeLibDexDebug/out
+path.2=classes_0.dex
+base.1=/Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+path.1=classes.dex
+base.0=/Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.chrisbanes:PhotoView:2.3.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/47455bf52308b385f2ac6e4be7ee2680/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/47455bf52308b385f2ac6e4be7ee2680/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/47455bf52308b385f2ac6e4be7ee2680/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

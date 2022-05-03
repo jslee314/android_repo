@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/840bb8c604cbadce4534b778d5a3d667/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/47455bf52308b385f2ac6e4be7ee2680/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1e3a11a7f13d01b81e132055b840632f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bff12b5513d23fa6d7030bfe10f07628/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/d678b892974db447ffe367fd20010da9/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1a49a920248a4fb274d26ac2c490bdbe/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/96c09d17a75976906efdc5465d0ee402/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/4333e14ad555393360ad2dfdd31a102b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/572df92522b45882f3fca774d865eef8/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/8ed1c689b5359dcdfad776e4fa1a8fdc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/6b55e1ff4b6f301cdc6553330e7e84c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7f3e469222a2e6aff596d6072a21c6e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/9faf4cb8eb486de7c821e92abaa1973c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/b31cab6920444ab2a3386a94a8bf7954/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7a1528f73d1d6690068929cb0a91c370/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/543dd2adf8bb3bc8113c55cf67588e21/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/0681be617257da94294c070433f6f056/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/876cb644cb248328e9a26f740045a62a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7452441ff5b5c6be2618920a01ee9f6a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/81da40de8a5ee547b61ef445f1aa7ccd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/64b920ed32bdd6b996e97db920cf6e19/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7a20e511c3725637bee2bcb0b814b311/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/0046b1faad7e5b9b07550a882613786b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/9c27c30bcc83f48f6feef9ea09c69768/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/cf0f6d4cc95995f5fb017b4d5333fc7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/ef33d51a9c04d95e7b1ec252dcf6e625/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/42f3e7594d829dd89eb898d8ec66e8f2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1380711a1c615c2b3e244b56eb972912/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/3db91ffe544aeff9831567eb6bf5c68a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c3556d17ae8d61018a5fe35c5ef51253/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1b782e55ee1f5a1981753a3f8c7f02d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/b0992463306b4ec484eb9fc6359f9a01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/68db9e44883d3c5323165d96e6457ca6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/5e0d8c029ce37eb1f3b735ab0541a8ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f67a0d9aab0205c70a63b9ada997ddb0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/58e2166380707ab6b9ab0e015f96bf25/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/3680f6aa70d95f10db6778d21c71b5b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bc76ec2a767dda52f1183cd3d4928e09/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/db4b9b6af28b89f4b644aa54c37b0472/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bc0c60ef210fc99ed72f4609ee64fc93/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c26016d3d2a7227bb0f756da51c3cdb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/2e5c2a970412e406d6490aca2b681e11/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/45f5914195488b675c5807deab5b2d04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/3a342e7ddf47c4d9ba81b8bd69b5ca3e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:2:11-61
+		INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:5:3-27:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/840bb8c604cbadce4534b778d5a3d667/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/840bb8c604cbadce4534b778d5a3d667/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1e3a11a7f13d01b81e132055b840632f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1e3a11a7f13d01b81e132055b840632f/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/AndroidManifest.xml:24:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/96c09d17a75976906efdc5465d0ee402/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/96c09d17a75976906efdc5465d0ee402/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/572df92522b45882f3fca774d865eef8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/572df92522b45882f3fca774d865eef8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/42f3e7594d829dd89eb898d8ec66e8f2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/42f3e7594d829dd89eb898d8ec66e8f2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1380711a1c615c2b3e244b56eb972912/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1380711a1c615c2b3e244b56eb972912/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f67a0d9aab0205c70a63b9ada997ddb0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f67a0d9aab0205c70a63b9ada997ddb0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/58e2166380707ab6b9ab0e015f96bf25/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/58e2166380707ab6b9ab0e015f96bf25/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/42f3e7594d829dd89eb898d8ec66e8f2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:6:7-34
+	android:theme
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:9:7-58
+activity#com.raywenderlich.android.majesticreader.presentation.MainActivity
+ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:13:5-17:16
+	android:label
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:15:9-52
+	android:theme
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:14:9-50
+activity#com.raywenderlich.android.majesticreader.presentation.SplashActivity
+ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:20:5-26:16
+	android:name
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:20:15-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:21:7-25:23
+action#android.intent.action.MAIN
+ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml:24:19-66
+uses-sdk
+INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/840bb8c604cbadce4534b778d5a3d667/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/840bb8c604cbadce4534b778d5a3d667/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/47455bf52308b385f2ac6e4be7ee2680/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/47455bf52308b385f2ac6e4be7ee2680/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1e3a11a7f13d01b81e132055b840632f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1e3a11a7f13d01b81e132055b840632f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bff12b5513d23fa6d7030bfe10f07628/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bff12b5513d23fa6d7030bfe10f07628/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/d678b892974db447ffe367fd20010da9/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/d678b892974db447ffe367fd20010da9/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1a49a920248a4fb274d26ac2c490bdbe/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1a49a920248a4fb274d26ac2c490bdbe/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/96c09d17a75976906efdc5465d0ee402/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/96c09d17a75976906efdc5465d0ee402/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/4333e14ad555393360ad2dfdd31a102b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/4333e14ad555393360ad2dfdd31a102b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/572df92522b45882f3fca774d865eef8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/572df92522b45882f3fca774d865eef8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/8ed1c689b5359dcdfad776e4fa1a8fdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/8ed1c689b5359dcdfad776e4fa1a8fdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/6b55e1ff4b6f301cdc6553330e7e84c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/6b55e1ff4b6f301cdc6553330e7e84c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7f3e469222a2e6aff596d6072a21c6e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7f3e469222a2e6aff596d6072a21c6e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/9faf4cb8eb486de7c821e92abaa1973c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/9faf4cb8eb486de7c821e92abaa1973c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/b31cab6920444ab2a3386a94a8bf7954/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/b31cab6920444ab2a3386a94a8bf7954/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7a1528f73d1d6690068929cb0a91c370/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7a1528f73d1d6690068929cb0a91c370/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/543dd2adf8bb3bc8113c55cf67588e21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/543dd2adf8bb3bc8113c55cf67588e21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/0681be617257da94294c070433f6f056/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/0681be617257da94294c070433f6f056/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/876cb644cb248328e9a26f740045a62a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/876cb644cb248328e9a26f740045a62a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7452441ff5b5c6be2618920a01ee9f6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7452441ff5b5c6be2618920a01ee9f6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/81da40de8a5ee547b61ef445f1aa7ccd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/81da40de8a5ee547b61ef445f1aa7ccd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/64b920ed32bdd6b996e97db920cf6e19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/64b920ed32bdd6b996e97db920cf6e19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7a20e511c3725637bee2bcb0b814b311/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/7a20e511c3725637bee2bcb0b814b311/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/0046b1faad7e5b9b07550a882613786b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/0046b1faad7e5b9b07550a882613786b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/9c27c30bcc83f48f6feef9ea09c69768/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/9c27c30bcc83f48f6feef9ea09c69768/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/cf0f6d4cc95995f5fb017b4d5333fc7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/cf0f6d4cc95995f5fb017b4d5333fc7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/ef33d51a9c04d95e7b1ec252dcf6e625/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/ef33d51a9c04d95e7b1ec252dcf6e625/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/42f3e7594d829dd89eb898d8ec66e8f2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/42f3e7594d829dd89eb898d8ec66e8f2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1380711a1c615c2b3e244b56eb972912/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1380711a1c615c2b3e244b56eb972912/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/3db91ffe544aeff9831567eb6bf5c68a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/3db91ffe544aeff9831567eb6bf5c68a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c3556d17ae8d61018a5fe35c5ef51253/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c3556d17ae8d61018a5fe35c5ef51253/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1b782e55ee1f5a1981753a3f8c7f02d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/1b782e55ee1f5a1981753a3f8c7f02d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/b0992463306b4ec484eb9fc6359f9a01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/b0992463306b4ec484eb9fc6359f9a01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/68db9e44883d3c5323165d96e6457ca6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/68db9e44883d3c5323165d96e6457ca6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/5e0d8c029ce37eb1f3b735ab0541a8ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/5e0d8c029ce37eb1f3b735ab0541a8ba/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f67a0d9aab0205c70a63b9ada997ddb0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f67a0d9aab0205c70a63b9ada997ddb0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/58e2166380707ab6b9ab0e015f96bf25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/58e2166380707ab6b9ab0e015f96bf25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/3680f6aa70d95f10db6778d21c71b5b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/3680f6aa70d95f10db6778d21c71b5b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bc76ec2a767dda52f1183cd3d4928e09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bc76ec2a767dda52f1183cd3d4928e09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/db4b9b6af28b89f4b644aa54c37b0472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/db4b9b6af28b89f4b644aa54c37b0472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bc0c60ef210fc99ed72f4609ee64fc93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bc0c60ef210fc99ed72f4609ee64fc93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c26016d3d2a7227bb0f756da51c3cdb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c26016d3d2a7227bb0f756da51c3cdb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/2e5c2a970412e406d6490aca2b681e11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/2e5c2a970412e406d6490aca2b681e11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/45f5914195488b675c5807deab5b2d04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/45f5914195488b675c5807deab5b2d04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/3a342e7ddf47c4d9ba81b8bd69b5ca3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/3a342e7ddf47c4d9ba81b8bd69b5ca3e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jslee/HD/Repository/ray/article/clean-architecture-android-materials/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/58e2166380707ab6b9ab0e015f96bf25/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/58e2166380707ab6b9ab0e015f96bf25/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/58e2166380707ab6b9ab0e015f96bf25/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/58e2166380707ab6b9ab0e015f96bf25/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/58e2166380707ab6b9ab0e015f96bf25/AndroidManifest.xml:24:13-79

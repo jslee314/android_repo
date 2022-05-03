@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.fragment:fragment:1.1.0-alpha04@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/c81a4e797c9fa47ad6b1cd4bb4d104b8/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/5a9e4bc0064e05857d26a6a75b7e4e0e/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/c81a4e797c9fa47ad6b1cd4bb4d104b8/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/c81a4e797c9fa47ad6b1cd4bb4d104b8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/c81a4e797c9fa47ad6b1cd4bb4d104b8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

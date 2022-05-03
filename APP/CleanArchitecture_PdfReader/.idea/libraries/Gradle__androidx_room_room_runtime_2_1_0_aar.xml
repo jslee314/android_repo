@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-runtime:2.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ed6571d8dd95c64cb0d95bab18436fb/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ed6571d8dd95c64cb0d95bab18436fb/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ed6571d8dd95c64cb0d95bab18436fb/jars/libs/room-common-java8-2.1.0.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ed6571d8dd95c64cb0d95bab18436fb/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ed6571d8dd95c64cb0d95bab18436fb/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/res" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/jars/libs/room-common-java8-2.1.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/f4c9cb6d899d80f5a3f53730b59b3527/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

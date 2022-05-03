@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.cardview:cardview:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e7ff9c0341fddba16e2f12f189083d2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e7ff9c0341fddba16e2f12f189083d2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e7ff9c0341fddba16e2f12f189083d2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bc0c60ef210fc99ed72f4609ee64fc93/res" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bc0c60ef210fc99ed72f4609ee64fc93/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/bc0c60ef210fc99ed72f4609ee64fc93/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.transition:transition:1.0.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/transition-1.0.1.aar/770773d3e19d8de6e28093e4691c48ba/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/transition-1.0.1.aar/770773d3e19d8de6e28093e4691c48ba/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/transition-1.0.1.aar/770773d3e19d8de6e28093e4691c48ba/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/transition-1.0.1.aar/770773d3e19d8de6e28093e4691c48ba/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

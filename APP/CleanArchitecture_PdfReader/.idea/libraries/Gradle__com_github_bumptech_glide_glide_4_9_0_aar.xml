@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bumptech.glide:glide:4.9.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/261218237c24db746dcbdae91f2d19a3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/261218237c24db746dcbdae91f2d19a3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/261218237c24db746dcbdae91f2d19a3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdbe49b3f84e927b82d94cf8e181764a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdbe49b3f84e927b82d94cf8e181764a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdbe49b3f84e927b82d94cf8e181764a/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c739a570ba1d3da94ba2287e8a87c87c/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c739a570ba1d3da94ba2287e8a87c87c/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-2/files-2.1/c739a570ba1d3da94ba2287e8a87c87c/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

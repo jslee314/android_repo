@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.savedstate:savedstate-bundle:1.0.0-alpha01@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/d2f18e7ec2ce4f630e151a67806d336c/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/d0850b4ff46c356dd3600e8b925f6cc4/res" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/d0850b4ff46c356dd3600e8b925f6cc4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/d0850b4ff46c356dd3600e8b925f6cc4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

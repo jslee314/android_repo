@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.databinding:databinding-adapters:3.3.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/databinding-adapters-3.3.2.aar/b7c7bca8fb43a35531a484e6b7922126/res" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/databinding-adapters-3.3.2.aar/b7c7bca8fb43a35531a484e6b7922126/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/databinding-adapters-3.3.2.aar/b7c7bca8fb43a35531a484e6b7922126/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

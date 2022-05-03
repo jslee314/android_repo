@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="clean-architecture-android-materials" target="11" />
+      <module name="clean-architecture-android-materials.app" target="11" />
+      <module name="CleanArchitecture_PdfReader" target="11" />
+      <module name="CleanArchitecture_PdfReader.app" target="11" />
+      <module name="final" target="11" />
+      <module name="final.app" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-runtime:2.0.0-rc01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/room-runtime-2.0.0-rc01.aar/64ea1999bbfb0308c23a46f2d9974194/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0-rc01.aar/4c0841898fe7b616b0acf1d1c2995363/res" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/room-runtime-2.0.0-rc01.aar/64ea1999bbfb0308c23a46f2d9974194/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/room-runtime-2.0.0-rc01.aar/64ea1999bbfb0308c23a46f2d9974194/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/room-runtime-2.0.0-rc01.aar/64ea1999bbfb0308c23a46f2d9974194/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

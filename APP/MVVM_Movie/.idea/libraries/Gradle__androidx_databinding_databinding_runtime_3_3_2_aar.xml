@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.databinding:databinding-runtime:3.3.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/databinding-runtime-3.3.2.aar/a8608c58020fc66fa673cae6795bf344/res" />
+      <root url="jar://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/databinding-runtime-3.3.2.aar/a8608c58020fc66fa673cae6795bf344/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/databinding-runtime-3.3.2.aar/a8608c58020fc66fa673cae6795bf344/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
