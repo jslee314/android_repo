@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:customview:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/customview-28.0.0.aar/890347bd408051b1bab23fedacb63e3b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/814e43ccb512214f1ef9cf3fedc5ac86/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3c6002ec7e45b80ab7ef007f8832e167/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3c6002ec7e45b80ab7ef007f8832e167/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3c6002ec7e45b80ab7ef007f8832e167/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

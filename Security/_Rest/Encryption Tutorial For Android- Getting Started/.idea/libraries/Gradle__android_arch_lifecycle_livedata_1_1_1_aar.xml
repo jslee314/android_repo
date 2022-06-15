@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.lifecycle:livedata:1.1.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fc72b1fe0b58ccd9736fc63735fabc33/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/47d258994d6d83bb9c748bfe3071b385/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f3aa10c1e5816b1d56d3d48def1cc914/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f3aa10c1e5816b1d56d3d48def1cc914/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f3aa10c1e5816b1d56d3d48def1cc914/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

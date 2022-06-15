@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Encryption Tutorial For Android- Getting Started" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.3.3" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.3.3" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../../../../AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.11/4839661cf6ce3c14b65ed7dcf5b9249b44ecca16/kotlin-stdlib-jdk7-1.3.11.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/42bff58a9cede0e42ef798325331da88/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/63721f3e3f52bef3a90d9a2368a68a92/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/extensions-1.1.1.aar/211eb1550c032ebccf459bc780b5c08e/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7d4eda74e46e8b691ae84b65227d8da5/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/3fe89ac83cb2f89f97a7444892d8ec13/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-simplexml/2.0.0-beta3/b1ab6e72cef2ba829ee2502f5516217362cfb301/converter-simplexml-2.0.0-beta3.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/org.jetbrains.anko/anko-common/0.10.0/da961cd594e27276ab9d4fed310de83ea174dc73/anko-common-0.10.0.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.0/3de0694cacc8fb6f118091c7ae1ec6540047ed0d/anko-commons-0.10.0.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.11/4cbc5922a54376018307a731162ccaf3ef851a39/kotlin-stdlib-1.3.11.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2d06d0603fb2d85891e466570d7dfe7f/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/412d1d89cc6f41d3610b31b026768d0f/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/09318d320421b6bb0d26697b11a0930b/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/370f8f8fba613da150de8eac3f91c5cc/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/359c29ef362d727b34bee9700cd85f03/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ceec8d6a10a55ae77dd5e78d4027b8b/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/loader-28.0.0.aar/9510f753dc45aee7fc59ce9768bc77a7/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7748601bdd0433ae0a5c15bb57b3a5a1/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/308b043bb18c7946f7ddbb3966cec1d6/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/69ddf2a07b679da33de6ec175ef19ff6/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e80edb2387ab7e97a13e5f1975f6fd07/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/customview-28.0.0.aar/890347bd408051b1bab23fedacb63e3b/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/bbb7d35d8bd302e432adb0ac485f3872/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3a942ce11156404a2d51ab4310f54487/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c354ebe034da933fe8cf409da8e47e7f/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ca4269eab33f3640e9db69bcdf0adc1f/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/965b226ef6d55d6419d2cc0f7825dd8c/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5498038590d041d322b64b4ad11aa0d8/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fc72b1fe0b58ccd9736fc63735fabc33/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f7a19bf6afb70a93ec601e56ffe5fce2/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f9982ed8280cfe788af4df3824440eb3/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3539d001c7872b59b63d32695f2850c1/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c2a60290144a760e284330f3ab9d02d0/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/99a3e764b5dee91c9baba4e7a5dcdd0d/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/print-28.0.0.aar/523dfdcd781e4a81cbacbb6aec5ef87d/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8576f5ebb5226f33ac7363cf4fb16ccd/jars/classes.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta3/97675641051febfee098903cc0eff62f2826e34e/retrofit-2.0.0-beta3.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/org.simpleframework/simple-xml/2.7.1/dd91fb744c2ff921407475cb29a1e3fee397d411/simple-xml-2.7.1.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.11/d8b8e746e279f1c4f5e08bc14a96b82e6bb1de02/kotlin-stdlib-common-1.3.11.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.0-RC1/be7e96331952019f16dc52dce09ab25df29353d7/okhttp-3.0.0-RC1.jar:/Users/jslee/HD/Repository/AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar:/Users/jslee/Library/Android/sdk/platforms/android-28/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="app_debug" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array>
+              <option value="plugin:org.jetbrains.kotlin.android:experimental=false" />
+              <option value="plugin:org.jetbrains.kotlin.android:enabled=true" />
+              <option value="plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap" />
+            </array>
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$MODULE_DIR$/../../../../../../../AndroidKotlinProjects/AdapterViews/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.11/61615dc1b4490a6a1940454da57496356067e488/kotlin-android-extensions-1.3.11.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app">
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
